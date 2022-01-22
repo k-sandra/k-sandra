@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k-sandra
-- 👀 I’m interested in web science + library + bibframe + marc 21 + ibict + formato ibict
-- 🌱 I’m currently learning rdf
+- 👀 I’m interested in web science + library + bibframe + marc 21 + ibict + formato ibict + game
+- 🌱 I’m currently learning pythib
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contato@liveras.com.br
 
